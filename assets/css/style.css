@@ -1,3 +1,24 @@
-#goal{
-    color: gray;
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightcoral;
+}
+
+#goal {
+    color: darkgray;
+}
+
+#losses {
+    color: darkgray;
+}
+
+#wins {
+    color: darkgray;
+}
+
+html {
+    background-color: black;
+}
+
+.jumbotron {
+    margin: 10px;
 }
