@@ -27,6 +27,12 @@ function reset() {
     currentScore = 0;
     $('#userScore').text(currentScore);
 }
+reset();
+$('.redGem').on('click', function(){
+    currentScore = currentScore+redGem;
+    console.log(currentScore);
+    $('#userScore').text(currentScore);
+})
 
 });
 
