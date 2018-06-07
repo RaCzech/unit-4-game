@@ -1,6 +1,7 @@
 .container {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: lightcoral;
+    margin-top: 50px;
 }
 
 #goal {
